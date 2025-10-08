@@ -1,0 +1,6 @@
+[submodule "leaderboard-game"]
+	path = leaderboard-game
+	url = https://github.com/AlexYates/leaderboard-game
+[submodule "leaderboard-server"]
+	path = leaderboard-server
+	url = https://github.com/AlexYates/leaderboard-server
