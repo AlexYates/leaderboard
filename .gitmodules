@@ -4,3 +4,6 @@
 [submodule "leaderboard-server"]
 	path = leaderboard-server
 	url = https://github.com/AlexYates/leaderboard-server
+[submodule "leaderboard-api"]
+	path = leaderboard-api
+	url = https://github.com/AlexYates/leaderboard-api.git
